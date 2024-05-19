@@ -1,0 +1,223 @@
+	Unnamed: 0	start	end	text	speaker	mention	character	round	transaction_unit	tu_relation	da	da_conf
+0	0	0.0	5.0	" Hoi, mijn naam is Robin. Hoe heet jij?"	robot			0			statement	3.334437131881710
+1	1	5.0	6.0	 Ramon.	human			0			statement	3.6060397624969500
+2	2	6.0	10.0	" Oké, leuk dat je meedoet met dit spelletje."	robot			0			comment	0.9840105772018430
+3	3	11.0	13.0	 Het gaat over mijn drie vrienden.	robot			0			statement	5.2363362312316900
+4	4	14.0	16.0	 Ik zal ze aan je voorstellen.	robot			0			statement	4.214899063110350
+5	5	18.0	20.0	 Zie je daar de tablet?	robot			0			statement	3.9596445560455300
+6	6	20.0	21.0	 Ja.	human			0			pos_answer	4.431374549865720
+7	7	21.0	23.0	 Op de stand daar naast mij?	robot			0			pos_answer	2.523383855819700
+8	8	24.0	30.0	" Als je op de knop op het scherm drukt, dan zie je mijn vrienden."	robot			0			statement	4.823321342468260
+9	9	31.0	33.0	 Kijk goed naar hun gezichten.	robot			0			statement	3.9267916679382300
+10	10	34.0	36.0	 Die moet je een beetje onthouden.	robot			0			opinion	3.0842502117157000
+11	11	37.0	38.0	 Oké.	human			0			back-channeling	4.004770755767820
+12	12	38.0	42.0	 Deze vrienden gaan overal naartoe en maken dan een foto.	robot			0			statement	4.808143138885500
+13	13	43.0	46.0	 Soms staan ze ook op de foto met anderen.	robot			0			statement	3.4819610118866000
+14	14	47.0	50.0	 Wij krijgen allebei deze foto's te zien.	robot			0			statement	3.834238290786740
+15	15	51.0	57.0	 Maar op mijn foto staan mijn vrienden op een andere volgorde dan op jouw foto.	robot			0			statement	5.253235340118410
+16	16	58.0	60.0	 Daar maken we een leuk spelletje van.	robot			0			statement	4.135373592376710
+17	17	61.0	65.0	 Wij gaan elke ronde samen uitzoeken wie waar staat.	robot			0			statement	4.551368236541750
+18	18	67.0	68.0	 Is dat oké?	robot			0			yes_no_question	3.4582459926605200
+19	19	68.0	69.0	 Oké.	human			0			pos_answer	5.276571273803710
+20	20	70.0	72.0	 Het werkt als volgt.	robot			0			back-channeling	1.7959222793579100
+21	21	73.0	76.0	 We gaan de vrienden een voor een langs.	robot			0			statement	3.7233316898345900
+22	22	77.0	83.0	 Jij vertelt wie je op welke plek ziet en ik vertel dan op welke plek die staat in mijn plaatsing.	robot			0			statement	5.0273284912109400
+23	23	84.0	91.0	" Als we het goed overleggen, vinden we samen de juiste antwoorden en is onze score hoger."	robot			0			statement	4.458613395690920
+24	24	92.0	93.0	 Leuk toch?	robot			0			comment	1.3384422063827500
+25	25	93.0	94.0	 Echt wel.	human			0			pos_answer	2.011838912963870
+26	26	95.0	97.0	 Laten we dit even oefenen.	robot			0			command	3.468559980392460
+27	27	98.0	102.0	 Druk maar op de knop om door te gaan naar de oefenronde.	robot			0			statement	1.4271230697631800
+28	28	103.0	111.0	" Beschrijf nu maar aan mij wie er bij jou op de eerste plek staat, zodat ik begrijp wie je bedoelt."	robot			0	1		statement	1.991439700126650
+29	29	112.0	116.0	Dat is de plek met de cijfer 1 erboven.	robot			0	1	continue	statement	4.007090091705320
+30	30	117.0	123.0	 Je kunt bijvoorbeeld aan mij vertellen hoe het gezicht eruit ziet of iets anders dat opvalt.	robot			0	1	continue	statement	3.4542136192321800
+31	31	126.0	128.0	 Eén heeft blond haar.	human	blond haar.	7	0	1	answer-description	statement	5.607875347137450
+32	32	128.0	131.0	" Oh ja, die staat bij mij op de tweede plek."	robot			0	1	ack-done	statement	2.7202951908111600
+33	33	132.0	135.0	Je kan nu op het cijfer 1 tikken.	robot			0			statement	3.3085238933563200
+34	34	136.0	138.0	 Er opent dan een menu.	robot			0			statement	3.2224552631378200
+35	35	139.0	145.0	Daarin kan je het cijfer 2 invullen om aan te geven dat die op de tweede plek staat bij mij.	robot			0			statement	4.175981044769290
+36	36	146.0	152.0	" Als je dat gedaan hebt, verschijnt er een vinkje om aan te geven dat je het hebt ingevuld."	robot			0			statement	3.99428129196167
+37	37	152.0	158.0	" Als je dat gedaan hebt, verschijnt er een vinkje om aan te geven dat je het hebt ingevuld."	robot			0			statement	3.97815203666687
+38	38	159.0	160.0	 Klopt dat?	robot			0			back-channeling	1.9139047861099200
+39	39	161.0	162.0	 Ja.	human			0			pos_answer	4.791692733764650
+40	40	164.0	165.0	 Mooi.	robot			0			appreciation	1.807247519493100
+41	41	166.0	170.0	 In het echte spel moeten we samen de antwoorden vinden voor alle vrienden.	robot			0			statement	3.0536177158355700
+42	42	171.0	175.0	 Voor we doorgaan naar het echte spel nog even een paar spelregels.	robot			0			statement	3.3675804138183600
+43	43	176.0	179.0	 Je krijgt het plaatje maar een paar seconden te zien.	robot			0			statement	3.3990278244018600
+44	44	179.0	183.0	 Onthoud dus goed wie waar staat en hoe die persoon eruit ziet.	robot			0			opinion	2.845346212387090
+45	45	184.0	191.0	 Daarna kun je vertellen wat je zag en gaan wij overleggen wie waar staat op jouw plaatje en op de mijne.	robot			0			statement	4.098430156707760
+46	46	192.0	193.0	 Is dat goed?	robot			0			yes_no_question	2.8672919273376500
+47	47	194.0	195.0	 Ja.	human			0			pos_answer	5.560951232910160
+48	48	196.0	203.0	" Als je bent vergeten wie je zag, kan je op het scherm tikken op de knop. Laat het plaatje zien."	robot			0			statement	1.7692543268203700
+49	49	204.0	207.0	 Maar je moet ook goed naar mij kijken.	robot			0			statement	3.4151196479797400
+50	50	208.0	211.0	" Dat praat wat makkelijker, toch?"	robot			0			statement	1.0774976015090900
+51	51	211.0	212.0	 Dat is zo.	human			0			statement	1.265379786491390
+52	52	212.0	214.0	 Ben je klaar voor het echte spel?	robot			0			yes_no_question	2.9920806884765600
+53	53	214.0	215.0	 Ja.	human			0			pos_answer	5.208436012268070
+54	54	216.0	221.0	 Oké. Het spel duurt in totaal zes rondjes.	robot			0			pos_answer	3.8351025581359900
+55	55	222.0	227.0	 Je kunt elke keer naar beneden scrollen om het hele plaatje te zien.	robot			0			statement	3.336085081100460
+56	56	228.0	232.0	" Klik maar op de knop, ga door op het scherm om te beginnen."	robot			0			statement	2.7608096599578900
+57	57	233.0	234.0	 Leuk hoor.	robot			0			appreciation	3.131037712097170
+58	58	238.0	241.0	Wie staat er nu bij jou op 1?	robot			1	2		open_question_factual	3.1877574920654300
+59	59	243.0	248.0	" Oh, dat ging heel snel. Dat was het met blond haar."	human	het met blond haar.	10	1	2	answer-description	statement	1.8591864109039300
+60	60	251.0	253.0	 Met lang blond haar.	human	 Met lang blond haar.	10	1	2	continue-description	statement	4.6534199714660600
+61	61	253.0	254.0	 Lang blond haar?	robot	 Lang blond haar?	10	1	2	req-clar	statement	1.5044944286346400
+62	62	254.0	255.0	 Ja.	human			1	2	clar-repair	back-channeling	3.4963502883911100
+63	63	255.0	256.0	 Ja.	robot			1	2	ack	abandon	3.255479335784910
+64	64	257.0	258.0	 Eens kijken.	robot			1	2	ack-doing	statement	1.8599270582199100
+65	65	260.0	262.0	 Die staat bij mij ook op die plek.	robot			1	2	ack-done	statement	3.7089784145355200
+66	66	263.0	264.0	Op 1.	human			1	2	req-confirm	abandon	3.577277660369870
+67	67	264.0	265.0	Dus op 1.	human			1	2	req-confirm	statement	3.5276570320129400
+68	68	268.0	269.0	 Ja.	robot			1	2	clar-confirm	back-channeling	3.744251251220700
+69	69	269.0	272.0	En dan heb ik op 2 de jongen met de bril.	human	de jongen met de bril.	2	1	3		statement	3.8913638591766400
+70	70	276.0	277.0	 Oké.	robot			1	3	ack	back-channeling	2.7567694187164300
+71	71	279.0	280.0	 Eens kijken.	robot			1	3	ack-doing	statement	2.108398675918580
+72	72	284.0	286.0	Bij mij staat hij op plek 3.	robot			1	3	ack-done	statement	5.1728949546814000
+73	73	289.0	290.0	"Oké, plek 3."	human			1	3	ack-confirm	back-channeling	2.789109945297240
+74	74	294.0	299.0	 De volgende is kort blond haar.	human	kort blond haar.	1	1	4		statement	4.613527774810790
+75	75	301.0	304.0	"Oh ja, die staat bij mij op plek 2."	robot			1	4	ack-done	statement	3.181028127670290
+76	76	308.0	315.0	 En dan heb ik een jongen met kort zwart haar.	human	een jongen met kort zwart haar.	14	1	5		statement	5.870709419250490
+77	77	316.0	317.0	 Eens kijken.	robot			1	5	ack-doing	statement	3.97149395942688
+78	78	320.0	323.0	"Oh ja, die staat bij mij op plek 5."	robot			1	5	ack-done	statement	2.3975422382354700
+79	79	325.0	330.0	"Ja, en dan heb ik nummer 5 is de kale man."	human	de kale man.	3	1	6		statement	2.2571842670440700
+80	80	333.0	336.0	"Oh ja, die staat bij mij op plek 4."	robot			1	6	ack-done	statement	2.4696576595306400
+81	81	338.0	340.0	 Hebben we ze nu allemaal gehad?	robot			1			yes_no_question	3.202195167541500
+82	82	340.0	341.0	 Ja.	human			1			pos_answer	5.775298118591310
+83	83	343.0	346.0	 Dan kunnen we door naar de volgende ronde.	robot			1			command	2.1689603328704800
+84	84	346.0	347.0	 Oké.	human			1			pos_answer	4.382684230804440
+85	85	347.0	349.0	" Druk maar op de knop, ga door."	human			1			closing	2.148251533508300
+86	86	350.0	351.0	 Goed gedaan.	robot			0			comment	2.852790355682370
+87	87	352.0	356.0	 Op het scherm zie je nu onze sporen voor deze ronde.	robot			0			statement	1.7667081356048600
+88	88	356.0	363.0	" Voordat we doorgaan naar de volgende ronde, wil ik je vragen eerst een paar vragen beantwoorden."	robot			0			statement	2.7091867923736600
+89	89	364.0	367.0	 Ik ga stil zijn terwijl je de vragen beantwoord.	robot			0			statement	4.001947402954100
+90	90	367.0	368.0	 Is goed.	human			0			back-channeling	3.579122304916380
+91	91	369.0	372.0	 Druk op het scherm op de link om door te gaan naar de vragen.	human			0			command	1.6344636678695700
+92	92	690.0	693.48	 Laten we nu doorgaan naar de volgende ronde.	robot			0			command	3.8939218521118200
+93	93	693.48	694.48	 Ja.	human			0			pos_answer	3.9220664501190200
+94	94	694.48	697.48	 Druk maar op de knop om door te gaan.	human			0			statement	2.249563455581670
+95	95	697.48	698.48	 Ja.	human			0			back-channeling	3.36515474319458
+96	96	700.48	702.48	 We hebben weer een plaatje.	human			2			statement	3.501396417617800
+97	97	705.48	713.48	 De eerste was de vrouw met het donkerblond kort haar.	human	de vrouw met het donkerblond kort haar.	12	2	7		statement	4.311316013336180
+98	98	720.48	722.48	 Het donker...	human			2	7	continue-description-partial	statement	4.107997417449950
+99	99	722.48	724.48	 Donkerbruin of donkerblond.	robot			2	7	req-clar	statement	4.121382236480710
+100	100	724.48	725.48	 Ja.	human			2	7	clar-repair	back-channeling	4.280538082122800
+101	101	725.48	727.48	 Donkerbruin haar.	human	 Donkerbruin haar.	12	2	7	clar-repair	statement	3.9101250171661400
+102	102	727.48	728.48	 Oké.	robot			2	7	ack	back-channeling	4.094085216522220
+103	103	730.48	733.48	" O ja, die staat bij mij op plek een."	robot			2	7	ack-done	statement	2.4103479385376000
+104	104	735.48	736.48	 Ja.	human			2	7	ack	back-channeling	2.654113531112670
+105	105	737.48	740.48	 De volgende is de kale man.	human	de kale man.	3	2	8		statement	2.1531827449798600
+106	106	744.48	748.48	" O ja, die staat bij mij ook op die plek."	robot			2	8	ack-done	opinion	2.8536641597747800
+107	107	748.96	750.96	Die staat op plek 2.	human			2	8	ack-confirm	statement	3.699634313583370
+108	108	751.96	752.96	 Ja.	robot			2	8	ack	back-channeling	4.977623462677000
+109	109	753.96	759.96	 En dan heb ik blond kort haar en een blauwe shirt.	human	blond kort haar en een blauwe shirt.	1	2	9		statement	5.150239944458010
+110	110	759.96	760.96	 Eens kijken.	robot			2	9	ack-doing	statement	4.606500148773190
+111	111	762.96	765.96	"O ja, die staat bij mij op plek 1."	robot			2	9	ack-done	statement	1.858154535293580
+112	112	768.96	772.96	 En dan heb ik een man met zwart haar en een bril op.	human	een man met zwart haar en een bril op.	4	2	10		statement	5.538320064544680
+113	113	778.96	780.96	 Bij mij staat die ook op die plek.	robot			2	10	ack-done	statement	4.565118789672850
+114	114	780.96	782.96	Op plek 4.	human			2	10	ack-confirm	statement	4.17923641204834
+115	115	783.96	784.96	 Ja.	robot			2	10	ack	back-channeling	3.9585630893707300
+116	116	785.96	789.96	 En de laatste is de jongen met een bril op en een beetje kruiselig haar.	human	de jongen met een bril op en een beetje kruiselig haar.	2	2	11		statement	3.7265207767486600
+117	117	790.96	792.96	 Die staat bij mij ook op die plek.	robot			2	11	ack-done	opinion	4.0351433753967300
+118	118	792.96	794.96	Die staat op plek 5.	human			2	11	ack-confirm	statement	5.702854633331300
+119	119	798.96	800.96	 Volgens mij kunnen we dan weer door.	robot			2			statement	3.305529832839970
+120	120	800.96	802.96	 Dan gaan we door.	human			2			statement	3.3812735080719000
+121	121	803.96	804.96	 Ja.	robot			2			back-channeling	2.9871718883514400
+122	122	805.44	807.44	Mijn score is 5.	human			2			statement	3.9706618785858200
+123	123	808.44	810.44	 Dan gaan we weer door.	human			2			statement	4.4277191162109400
+124	124	823.44	825.44	Wie staat er nu op 1?	robot			3	12		open_question_factual	4.884589195251470
+125	125	825.44	828.44	 Dat is de jongen met de bril met het kruiselig haar.	human	de jongen met de bril met het kruiselig haar.	2	3	12	answer-description	statement	2.040370225906370
+126	126	829.44	832.44	"O ja, die staat bij mij op plek 5."	robot			3	12	ack-done	statement	2.5338144302368200
+127	127	835.44	837.44	Op plek 5.	robot			3	12	ack-confirm	statement	4.674406051635740
+128	128	838.44	840.44	 En dan heb ik de kale man.	human	de kale man.	3	3	13		statement	5.489869594573980
+129	129	842.44	845.44	 Die staat bij mij ook op die plek.	robot			3	13	ack-done	opinion	4.548410892486570
+130	130	845.44	847.44	Op plek 2.	human			3	13	ack-confirm	opinion	3.964073419570920
+131	131	848.44	849.44	 Ja.	robot			3	13	ack	back-channeling	3.7876546382904100
+132	132	850.44	853.44	 Het volgende plekje is een kleine jongen.	human	een kleine jongen.	8	3	14		statement	2.729853391647340
+133	133	854.44	857.44	"O ja, die staat bij mij op plek 4."	robot			3	14	ack-done	statement	3.3219525814056400
+134	134	858.44	859.44	Op plek 4.	robot			3	14	ack-confirm	statement	4.47830057144165
+135	135	860.44	864.92	 Het volgende is een vrouw met kort blond haar.	human	een vrouw met kort blond haar.	9	3	15		statement	5.222376346588140
+136	136	869.92	871.92	Die staat op plek 3.	robot			3	15	ack-done	statement	5.52634859085083
+137	137	873.92	879.92	 En dan heb ik de laatste is de vrouw met half lang blond haar.	human	de vrouw met half lang blond haar.	1	3	16		statement	4.859311103820800
+138	138	879.92	881.92	 En een blauwe shirt.	human	 En een blauwe shirt.	1	3	16	continue-description	statement	5.7737040519714400
+139	139	883.92	885.92	Die staat op plek 1.	robot			3	16	ack-done	statement	5.795863628387450
+140	140	887.92	888.92	 Oké.	human			3			back-channeling	3.714634656906130
+141	141	889.92	891.92	 Dan gaan we weer door.	human			3			statement	3.237475633621220
+142	142	895.92	897.92	Mijn score is 5.	human			3			statement	4.860252857208250
+143	143	899.92	900.92	 Super.	robot			3			comment	2.884734630584720
+144	144	901.92	902.92	 Ga door.	human			3			abandon	3.998558759689330
+145	145	903.92	904.92	 In het museum.	human			4			statement	2.054105758666990
+146	146	905.4	907.4	Wie staat er op 1?	robot			4	17		open_question_factual	4.858957290649410
+147	147	907.4	911.4	" De eerste plek, daar staat de jongen met de bril met het kruiselig haar."	human	de jongen met de bril met het kruiselig haar.	2	4	17	answer-description	statement	2.2807929515838600
+148	148	913.4	916.4	"O ja, die staat bij mij op plek 3."	robot			4	17	ack-done	statement	2.415306329727170
+149	153	930.88	937.88	 Dan heb ik een vrouw met bruin haar en een donkerblauwe shirt.	human	een vrouw met bruin haar en een donkerblauwe shirt.	6	4	18		statement	5.54387092590332
+150	154	941.88	944.88	" O ja, die staat bij mij op op die plek."	robot			4	18	ack-done	statement	4.3499064445495600
+151	155	944.88	946.88	Op plekje nummer 2.	human			4	18	ack-confirm	statement	4.368647575378420
+152	156	947.88	950.88	 Dan heb ik de volgende is de kale man.	human	de kale man.	3	4	19		statement	5.814297199249270
+153	157	952.88	954.88	Bij mij staat die op plek 1.	human			4	19	ack-done	statement	5.659491062164310
+154	158	955.88	956.88	Op plek 1.	robot			4	19	ack-confirm	statement	3.8138673305511500
+155	159	957.88	958.88	 Oké.	human			4	19	ack	back-channeling	4.111298084259030
+156	160	959.36	960.36	Op plekje 1.	human			4	19	ack-confirm	statement	2.933760166168210
+157	161	961.36	964.36	 Dan heb ik een man met kort zwart haar.	human	een man met kort zwart haar.	15	4	20		statement	6.126925468444820
+158	162	966.36	968.36	Bij mij staat die op plek 5.	robot			4	20	ack-done	statement	5.774747848510740
+159	163	970.36	975.36	 En de laatste is de vrouw met half donkerblond lang haar.	human	de vrouw met half donkerblond lang haar.	1	4	21		statement	4.085294723510740
+160	164	976.36	979.36	"O ja, die staat bij mij op plek 4."	robot			4	21	ack-done	statement	3.501220464706420
+161	165	979.36	980.36	 Heel goed.	human			4	21	ack	appreciation	3.377145767211910
+162	166	981.36	983.36	 Hebben we ze nu allemaal gehad?	robot			4			yes_no_question	3.0283029079437300
+163	167	983.36	985.36	 Dan hebben we ze allemaal.	human			4			statement	5.180477619171140
+164	168	985.36	986.36	 Dan gaan we weer door.	human			4			statement	4.257150173187260
+165	169	987.36	988.36	 Ja.	robot			4			back-channeling	2.724200487136840
+166	170	989.36	991.36	Hebben we een score van 5 weer.	human			4			yes_no_question	3.10178542137146
+167	171	992.36	993.36	 Mooi.	robot			5			comment	1.6276153326034500
+168	172	995.36	997.36	 Dat gaat goed.	robot			5			comment	1.322698712348940
+169	173	1008.36	1013.36	 Op de eerste plek heb ik de jongen met de bril met kroeselig haar.	human	de jongen met de bril met kroeselig haar.	2	5	22		statement	4.100270748138430
+170	174	1016.36	1018.36	Bij mij staat die op plek 5.	robot			5	22	ack-done	statement	5.355749130249020
+171	175	1019.36	1025.36	 De tweede plek heb ik een vrouw met lang bruin haar.	human	een vrouw met lang bruin haar.	11	5	23		statement	5.266655921936040
+172	176	1027.36	1029.36	 Die staat bij mij ook op die plek.	robot			5	23	ack-done	statement	4.077414035797120
+173	177	1029.36	1030.36	Op plekje 2.	human			5	23	ack-confirm	opinion	4.370734691619870
+174	178	1033.36	1038.36	" De volgende is een man, kaal hoofd en een zwarte shirt."	human	"een man, kaal hoofd en een zwarte shirt."	13	5	24		statement	5.2898268699646
+175	179	1041.36	1043.36	Bij mij staat die op plek 4.	robot			5	24	ack-done	statement	5.4315361976623500
+176	180	1044.36	1045.36	Staat op plek 4.	human			5	24	ack-confirm	statement	3.865821361541750
+177	181	1045.84	1055.84	 Dan heb ik de vrouw met half lang bruin blond haar en een lichtblauwe shirt.	human	de vrouw met half lang bruin blond haar en een lichtblauwe shirt.	1	5	25		statement	5.732395648956300
+178	182	1055.84	1057.84	"O ja, die staat bij mij op plek 1."	robot			5	25	ack-done	statement	4.292374134063720
+179	183	1060.84	1063.84	 En de volgende is de kale man met een groen shirt.	human	de kale man met een groen shirt.	3	5	26		statement	3.28137469291687
+180	184	1066.84	1069.84	"O ja, die staat bij mij op plek 3."	robot			5	26	ack-done	statement	2.0117642879486100
+181	185	1072.84	1073.84	 Oké.	human			5	26	ack	back-channeling	4.550441265106200
+182	186	1076.36	1078.36	We hebben weer een score van 5.	human			5			statement	3.890427589416500
+183	187	1079.36	1080.36	 Dan kunnen we door.	robot			5			statement	3.934224843978880
+184	188	1080.36	1081.36	 Dan gaan we door.	human			5			statement	3.4565703868866000
+185	189	1081.36	1082.36	 Mooi hoor.	robot			5			comment	1.6624349355697600
+186	190	1099.36	1104.36	 Op de eerste plek staat een vrouw met lang blond haar en een donkerblauw shirt.	human	een vrouw met lang blond haar en een donkerblauw shirt.	7	6	27		statement	2.0109450817108200
+187	191	1106.36	1108.36	 Die staat bij mij op die plek.	robot			6	27	ack-done	statement	4.3458099365234400
+188	192	1108.36	1109.36	Op plekje nummer 1.	human			6	27	ack-confirm	opinion	4.705179214477540
+189	193	1111.36	1116.36	Op plekje nummer 2 staat een kale man met een lichtgroen shirt.	human	een kale man met een lichtgroen shirt.	3	6	28		statement	5.0597405433654800
+190	194	1124.36	1127.36	"O ja, die staat bij mij op plek 3."	robot			6	28	ack-done	statement	3.664705753326420
+191	195	1130.36	1134.36	 En dan heb ik een kale man met een donkergroen shirt.	human	een kale man met een donkergroen shirt.	5	6	29		statement	5.018235206604000
+192	196	1136.36	1139.36	"O ja, die staat bij mij op plek 2."	robot			6	29	ack-done	statement	3.764320135116580
+193	197	1142.36	1145.36	 En dan heb ik de jongen met de bril en kroeselig haar.	human	de jongen met de bril en kroeselig haar.	2	6	30		statement	4.984091758728030
+194	198	1148.36	1149.36	 Ja.	robot			6	30	ack	statement	3.6004040241241500
+195	199	1150.36	1152.36	Bij mij staat die op plek 5.	robot			6	30	ack-done	statement	4.680797100067140
+196	200	1152.36	1153.36	Op plekje 5.	human			6	30	ack-confirm	statement	4.202513217926030
+197	201	1153.36	1159.36	 En dan heb ik de vrouw met een lichtblauwe shirt en half lang blond haar.	human	de vrouw met een lichtblauwe shirt en half lang blond haar.	1	6	31		statement	4.9255523681640600
+198	202	1159.36	1162.36	"O ja, die staat bij mij op plek 4."	robot			6	31	ack-done	statement	4.369390964508060
+199	203	1163.36	1164.36	 Heel goed.	human			6	31	ack	appreciation	3.377145767211910
+200	204	1165.36	1167.36	 Dit was de laatste ronde.	robot			6			statement	2.1336305141449000
+201	205	1167.36	1168.36	 Dan gaan we door.	human			6			statement	1.8567471504211400
+202	206	1168.36	1170.36	 Dan kunnen we door naar je eindscore.	robot			6			statement	4.105620384216310
+203	207	1171.36	1173.36	De eindscore is 30.	human			0			statement	3.1503636837005600
+204	208	1173.36	1174.36	 Goed gedaan.	robot			0			appreciation	3.6068482398986800
+205	209	1175.36	1178.36	 Op het scherm zie je nu je eindscore.	robot			0			statement	2.333343744277950
+206	210	1178.36	1179.36	 Ja.	human			0			back-channeling	3.2433526515960700
+207	211	1179.36	1180.36	 Mooie score hoor.	robot			0			appreciation	1.1277124881744400
+208	212	1180.36	1181.36	 Dank je wel.	human			0			thanking	1.300689458847050
+209	213	1182.36	1184.36	 Nu is het spel afgelopen.	robot			0			statement	2.100375175476070
+210	214	1185.36	1186.36	 Bedankt.	robot			0			thanking	1.2087417840957600
+211	215	1186.36	1189.36	 Het was leuk om een spelletje met je te spelen.	robot			0			comment	1.7112597227096600
+212	216	1189.36	1190.36	 Ook met jou.	human			0			statement	3.1965489387512200
+213	217	1190.36	1195.36	 Als allerlaatste wil ik je opnieuw vragen om wat vragen te beantwoorden.	robot			0			command	4.375141143798830
+214	218	1195.36	1196.36	 Helemaal goed.	human			0			comment	3.3280835151672400
+215	219	1196.36	1201.36	 Na de vragenlijst is het experiment klaar en kan je het groepje verladen.	robot			0			statement	4.041543960571290
+216	220	1201.36	1202.36	 Helemaal goed.	human			0			comment	3.948467254638670
+217	221	1202.36	1206.36	 Druk op het scherm op de link om naar de vragen te gaan.	robot			0			comment	2.1189427375793500
+218	222	1207.36	1208.36	 Ik neem nu afscheid.	robot			0			statement	4.472483158111570
+219	223	1208.36	1209.36	 Dag hoor.	human			0			abandon	3.1829943656921400
+220	224	1209.36	1212.36	 Bedankt voor het meespelen en tot ziens.	robot			0			thanking	4.077078819274900
+221	225	1213.36	1214.36	 Dag.	human			0			abandon	3.655365467071530
