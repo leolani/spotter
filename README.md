@@ -6,6 +6,8 @@ which is described in the following paper:
 
 `paper citation will appear once available`
 
+If you use our code or data, please cite this paper.
+
 ## The SPOTTER game
 The SPOTTER game is a two-person reference game. It consists of six rounds
 in which the goal is to locate the position of characters in a visual scene.
