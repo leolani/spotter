@@ -2,11 +2,7 @@
 
 This repository contains code and data for the SPOTTER Framework, a 
 framework for investigating convention formation in Human-Robot Interaction,
-which is described in the following paper:
-
-`paper citation will appear once available`
-
-If you use our code or data, please cite this paper.
+which is described in [this paper](https://aclanthology.org/2024.lrec-main.1322).
 
 ## The SPOTTER game
 The SPOTTER game is a two-person reference game. It consists of six rounds
@@ -67,7 +63,33 @@ The dataset contains one **Utterance** per line. Utterances been annotated with 
 
 See the table below for quantitative details about the dataset:
 
-![](SPOTTER_presentation.jpg)
+<img src="SPOTTER_presentation.jpg" height="400">
+
+## Citation
+
+If you use our framework or data, please cite our paper:
+
+`@inproceedings{kruijt-etal-2024-spotter-framework,
+    title = "{SPOTTER}: A Framework for Investigating Convention Formation in a Visually Grounded Human-Robot Reference Task",
+    author = "Kruijt, Jaap  and
+      van Minkelen, Peggy  and
+      Donatelli, Lucia  and
+      Vossen, Piek T.J.M.  and
+      Konijn, Elly  and
+      Baier, Thomas",
+    editor = "Calzolari, Nicoletta  and
+      Kan, Min-Yen  and
+      Hoste, Veronique  and
+      Lenci, Alessandro  and
+      Sakti, Sakriani  and
+      Xue, Nianwen",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    address = "Torino, Italy",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.1322",
+    pages = "15202--15215"}`
 
 
 
